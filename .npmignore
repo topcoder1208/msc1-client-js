@@ -1,0 +1,17 @@
+.DS_Store
+.idea/
+*.log
+
+/node_modules/
+
+*.tgz
+/tmp/
+
+.babelrc
+.eslint*
+.gitignore
+
+/dist/
+/src/
+/config/
+/test/
